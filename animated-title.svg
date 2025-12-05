@@ -24,8 +24,8 @@
     </style>
   </defs>
 
-  <!-- 超ど真ん中に配置 -->
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">
+  <!-- 🎋の幅補正込みの“見た目ど真ん中” -->
+  <text x="48%" y="50%" text-anchor="middle" dominant-baseline="central">
     <tspan class="green">🎋</tspan>
     <tspan class="orange">b</tspan><tspan class="green">4</tspan><tspan class="orange">mbo-o</tspan>
   </text>
