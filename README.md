@@ -53,11 +53,11 @@
 
 <div align="center">
 
-![b4mbo-o's GitHub Stats](https://github-readme-stats-sage-tau-70.vercel.app/api?username=b4mbo-o&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
+![b4mbo-o's GitHub Stats](https://github-readme-stats-ashen-three-47.vercel.app/api?username=b4mbo-o&show_icons=true&theme=tokyonight&hide=prs&count_private=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats-sage-tau-70.vercel.app/api/top-langs/?username=b4mbo-o&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-ashen-three-47.vercel.app/api/top-langs/?username=b4mbo-o&layout=compact&theme=tokyonight)
 
 <br>
 
