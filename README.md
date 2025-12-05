@@ -1,6 +1,6 @@
 <div align="center">
   <!-- タイトルのアニメSVG -->
-  <img src="https://raw.githubusercontent.com/b4mbo-o/b4mbo-o/main/animated-title.svg" width="450"/>
+  <img src="https://raw.githubusercontent.com/b4mbo-o/b4mbo-o/main/animated-title.svg" width="900"/>
 </div>
 
 ---
