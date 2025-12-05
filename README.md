@@ -61,7 +61,7 @@
 
 <br>
 
-![b4mbo-o's GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=b4mbo-o&theme=tokyonight&hide_border=false)
+![b4mbo-o's GitHub streak](https://github-readme-streak-stats-iota-opal.vercel.app?user=b4mbo-o&theme=tokyonight&hide_border=false)
 
 </div>
 
