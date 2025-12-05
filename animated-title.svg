@@ -1,31 +1,31 @@
-<svg width="100%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @keyframes glowOrange {
-        0% { fill: #ff8c00; filter: drop-shadow(0 0 3px #ff8c00); }
-        50% { fill: #ffa733; filter: drop-shadow(0 0 10px #ffa733); }
-        100% { fill: #ff8c00; filter: drop-shadow(0 0 3px #ff8c00); }
+        0% { fill: #ff8c00; filter: drop-shadow(0 0 6px #ff8c00); }
+        50% { fill: #ffa733; filter: drop-shadow(0 0 14px #ffa733); }
+        100% { fill: #ff8c00; filter: drop-shadow(0 0 6px #ff8c00); }
       }
 
       @keyframes glowGreen {
-        0% { fill: #2ecc71; filter: drop-shadow(0 0 2px #2ecc71); }
-        50% { fill: #34e97a; filter: drop-shadow(0 0 8px #34e97a); }
-        100% { fill: #2ecc71; filter: drop-shadow(0 0 2px #2ecc71); }
+        0% { fill: #2ecc71; filter: drop-shadow(0 0 5px #2ecc71); }
+        50% { fill: #34e97a; filter: drop-shadow(0 0 12px #34e97a); }
+        100% { fill: #2ecc71; filter: drop-shadow(0 0 5px #2ecc71); }
       }
 
       text {
         font-family: sans-serif;
-        font-size: 48px;
+        font-size: 90px;
         font-weight: 700;
       }
 
-      .orange { animation: glowOrange 2.4s infinite ease-in-out; }
-      .green  { animation: glowGreen 3s infinite ease-in-out; }
+      .orange { animation: glowOrange 2.2s infinite ease-in-out; }
+      .green  { animation: glowGreen 2.8s infinite ease-in-out; }
     </style>
   </defs>
 
-  <!-- 左寄せで一つの単語として自然に表示 -->
-  <text x="40%" y="50%" text-anchor="start" dominant-baseline="middle">
+  <!-- 超ど真ん中に配置 -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">
     <tspan class="green">🎋</tspan>
     <tspan class="orange">b</tspan><tspan class="green">4</tspan><tspan class="orange">mbo-o</tspan>
   </text>
