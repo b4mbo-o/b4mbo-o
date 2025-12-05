@@ -1,37 +1,12 @@
-<style>
-/* ===== アニメーション & のかオレンジカラー ===== */
+<div align="center">
+  <!-- タイトルのアニメSVG -->
+  <img src="https://raw.githubusercontent.com/b4mbo-o/b4mbo-o/main/animated-title.svg" width="450"/>
+</div>
 
-/* タイトルを光らせる */
-.noka-glow {
-  animation: glow 2s ease-in-out infinite alternate;
-}
+---
 
-@keyframes glow {
-  from { text-shadow: 0 0 8px #ff8c00; }
-  to   { text-shadow: 0 0 18px #ffa733; }
-}
+<div align="center">
 
-/* 全体をふわっと浮かせる */
-.float {
-  animation: float 3s ease-in-out infinite;
-}
-
-@keyframes float {
-  0%   { transform: translateY(0px); }
-  50%  { transform: translateY(-6px); }
-  100% { transform: translateY(0px); }
-}
-
-/* リンクのホバーをのかカラーに */
-a:hover {
-  filter: drop-shadow(0 0 6px #ff8c00);
-  transform: scale(1.05);
-}
-</style>
-
-<div align="center" class="float">
-
-# 🎋🐼 <span class="noka-glow">b4mbo-o</span>
 ### 「わ！わ！わ！わ！ワールドのかちゃん！！！！」  
 **`✝️ イェッタイガ・ファイボワイパー ✝️`**
 
@@ -41,7 +16,7 @@ a:hover {
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://b4mboo.net">
-  <img src="https://img.shields.io/badge/Website-b4mboo.net-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-b4mboo.net-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://github.com/b4mbo-o">
   <img src="https://img.shields.io/badge/GitHub-b4mbo--o-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -81,9 +56,9 @@ a:hover {
 
 ---
 
-# 📈 Stats  
+# 📈 Stats
 
-<div align="center" class="float">
+<div align="center">
 
 ### 🔥 GitHub Stats  
 <img src="https://github-readme-stats-ashen-three-47.vercel.app/api?username=b4mbo-o&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="180" />
@@ -100,4 +75,3 @@ a:hover {
 
 # 💬 Status  
 > **小晴のかかわいいよなぁ、、、**
-
